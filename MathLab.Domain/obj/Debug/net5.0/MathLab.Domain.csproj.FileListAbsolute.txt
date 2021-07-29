@@ -1,0 +1,12 @@
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\bin\Debug\net5.0\MathLab.Domain.deps.json
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\bin\Debug\net5.0\MathLab.Domain.dll
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\bin\Debug\net5.0\ref\MathLab.Domain.dll
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\bin\Debug\net5.0\MathLab.Domain.pdb
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.csproj.AssemblyReference.cache
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.AssemblyInfoInputs.cache
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.AssemblyInfo.cs
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.dll
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\ref\MathLab.Domain.dll
+C:\Users\Semantix\source\repos\MathLab\MathLab.Domain\obj\Debug\net5.0\MathLab.Domain.pdb
